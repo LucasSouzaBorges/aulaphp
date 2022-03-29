@@ -1,5 +1,5 @@
 <?php // INICIANDO O PROGRAMA
-
+// Caue lindo
 //CRIANDO UMA CLASSE CHAMDA "PESSOA"
 class Pessoa{
 
